@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "DSH Model Effort Picker",
+    "description": "Adds a sticky effort slider to the composer model menu (replacing its Effort row), declaring generic levels for custom providers on first use."
+  }
+}
