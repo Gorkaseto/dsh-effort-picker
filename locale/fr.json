@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "DSH Model Effort Picker",
+    "description": "Ajoute un curseur d'effort persistant au menu des modèles du compositeur (en remplaçant sa ligne Effort) et déclare des niveaux génériques pour les fournisseurs personnalisés lors de la première utilisation."
+  }
+}

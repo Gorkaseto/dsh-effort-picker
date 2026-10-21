@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "DSH Model Effort Picker",
+    "description": "Añade un control deslizante de esfuerzo fijo al menú de modelos del compositor (sustituyendo su fila Esfuerzo) y declara niveles genéricos para proveedores personalizados en el primer uso."
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "DSH Model Effort Picker",
+    "description": "Fügt dem Modellmenü des Eingabefelds einen dauerhaften Aufwand-Schieberegler hinzu (ersetzt die Zeile „Aufwand“) und legt bei der ersten Verwendung generische Stufen für benutzerdefinierte Anbieter fest."
+  }
+}

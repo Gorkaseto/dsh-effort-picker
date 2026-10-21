@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "DSH Model Effort Picker",
+    "description": "Voegt een blijvende inspanningsschuifregelaar toe aan het modelmenu van het invoerveld (ter vervanging van de rij Inspanning) en legt bij het eerste gebruik generieke niveaus vast voor aangepaste providers."
+  }
+}

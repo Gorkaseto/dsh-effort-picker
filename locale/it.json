@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "DSH Model Effort Picker",
+    "description": "Aggiunge un cursore di impegno persistente al menu dei modelli del compositore (sostituendo la riga Impegno) e dichiara livelli generici per i provider personalizzati al primo utilizzo."
+  }
+}

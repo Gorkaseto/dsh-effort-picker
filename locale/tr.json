@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "DSH Model Effort Picker",
+    "description": "Yazma alanındaki model menüsüne kalıcı bir efor kaydırıcısı ekler (Efor satırının yerine geçer) ve ilk kullanımda özel sağlayıcılar için genel seviyeler tanımlar."
+  }
+}
